@@ -4,5 +4,6 @@ That's the question behind my PhD — Bayesian active learning for closed-loop e
 
 Physics by training (Bologna → Turin), now neuroscience in Paris.
 
-📫 pietro.zamberlan@gmail.com
+📫 pietro.zamberlan@gmail.com    pietro.zamberlan@inserm.fr
+
 🔗 [LinkedIn](https://www.linkedin.com/in/pzamberlan/)
